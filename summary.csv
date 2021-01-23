@@ -1,0 +1,7 @@
+﻿Algorithm,Precision,Recall,F-score,Accuracy,Computational Time (in seconds)
+Decision Tree,0.82,0.77,0.74,0.77,1.66
+Supoort Vector Machine,0.8,0.75,0.72,0.75,860.88
+Logistic Regression,0.8,0.77,0.75,0.77,656.3
+Multi Layer Perceptron,0.82,0.8,0.78,0.8,108.13
+AdaBoost,0.8,0.75,0.71,0.75,765.53
+Light Gradient Boosted Machine,0.84,0.81,0.79,0.81,1.53
