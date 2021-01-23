@@ -1,7 +1,6 @@
-﻿Algorithm,Precision,Recall,F-score,Accuracy,Computational Time (in seconds)
-DT,0.82,0.77,0.74,0.77,1.66
-SVM,0.8,0.75,0.72,0.75,860.88
-LR,0.8,0.77,0.75,0.77,656.3
-MLP,0.82,0.8,0.78,0.8,108.13
-Ada,0.8,0.75,0.71,0.75,765.53
-LGBM,0.84,0.81,0.79,0.81,1.53
+﻿Algorithm,Precision,Recall,F-score,Accuracy
+DT,0.82,0.77,0.74,0.77
+SVM,0.8,0.75,0.72,0.75
+LR,0.8,0.77,0.75,0.77
+MLP,0.82,0.8,0.78,0.8
+LGBM,0.84,0.81,0.79,0.81
